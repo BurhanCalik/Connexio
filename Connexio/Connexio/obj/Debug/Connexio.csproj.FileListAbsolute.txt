@@ -1,0 +1,10 @@
+C:\Users\scadenza\Desktop\ConnexioProject\Connexio\Connexio\bin\Debug\Connexio.exe.config
+C:\Users\scadenza\Desktop\ConnexioProject\Connexio\Connexio\bin\Debug\Connexio.exe
+C:\Users\scadenza\Desktop\ConnexioProject\Connexio\Connexio\bin\Debug\Connexio.pdb
+C:\Users\scadenza\Desktop\ConnexioProject\Connexio\Connexio\obj\Debug\Connexio.csproj.AssemblyReference.cache
+C:\Users\scadenza\Desktop\ConnexioProject\Connexio\Connexio\obj\Debug\Connexio.Connexio.resources
+C:\Users\scadenza\Desktop\ConnexioProject\Connexio\Connexio\obj\Debug\Connexio.Properties.Resources.resources
+C:\Users\scadenza\Desktop\ConnexioProject\Connexio\Connexio\obj\Debug\Connexio.csproj.GenerateResource.cache
+C:\Users\scadenza\Desktop\ConnexioProject\Connexio\Connexio\obj\Debug\Connexio.csproj.CoreCompileInputs.cache
+C:\Users\scadenza\Desktop\ConnexioProject\Connexio\Connexio\obj\Debug\Connexio.exe
+C:\Users\scadenza\Desktop\ConnexioProject\Connexio\Connexio\obj\Debug\Connexio.pdb
